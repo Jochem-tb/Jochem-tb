@@ -14,11 +14,11 @@
 
 ```typescript
 const developer = {
-    name: "Jochem-TB",
+    name: "Jochem ter Braak",
     role: "Full Stack Developer",
     location: "Netherlands 🌍",
     currentFocus: "Finishing up my internship at a All-in-One Automotive Platform",
-    learning: ["Kubernetes", "LLM's", "Machine Learning"],
+    learning: [GraphQL, "LLM's", "Machine Learning"],
     interests: ["Cybersecurity", "Automation", "Data Science"],
 };
 ```
@@ -74,6 +74,8 @@ const developer = {
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 
 </div>
 
@@ -104,36 +106,3 @@ const developer = {
 | **[BoardGameNightWebApp](https://github.com/Jochem-tb/BoardGameNightWebApp)** | TODO | `C#, ASP.NET, SQL` | Coming soon... |
 | **[Spellen-Doos](https://github.com/Jochem-tb/spellen-doos)** | TODO | `JavaScript, Angular, WebSocket, MongoDB` | Coming soon... |
 | **[Coming soon]()** | TODO | `TODO` | Coming soon... |
-
----
-
-## 🎨 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"First, solve the problem. Then, write the code."* - John Johnson
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jochem-tb&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&color=blue)](https://github.com/Jochem-tb)
-
-### 🌟 Show some ❤️ by starring some repositories!
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-**Made with 💻 and ☕ by Jochem-tb**
-
-</div>
-
-
-
-
-
-
