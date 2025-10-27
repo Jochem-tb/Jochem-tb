@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Hi there, I'm [Your Name]
+# 👨‍💻 Hi there, I'm Jochem-TB
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Cloud+Architecture+Lover;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -17,13 +17,12 @@
 
 ```typescript
 const developer = {
-    name: "Your Name",
+    name: "Jochem-TB",
     role: "Full Stack Developer",
-    location: "Your Location 🌍",
-    currentFocus: "Building scalable cloud applications",
+    location: "Netherlands 🌍",
+    currentFocus: "Finishing up my internship at a All-in-One Automotive Platform",
     learning: ["Kubernetes", "System Design", "Machine Learning"],
-    interests: ["Open Source", "DevOps", "Web3"],
-    funFact: "I debug with console.log() and I'm not ashamed 😄"
+    interests: ["Cybersecurity", "Automation", "Data Science"],
 };
 ```
 
@@ -31,10 +30,9 @@ const developer = {
 
 ### 💼 Currently
 
-🔭 Working on **[Your Amazing Project]** - Revolutionizing [industry/field]  
-🌱 Deepening knowledge in **Cloud Architecture & Microservices**  
-👯 Looking to collaborate on **Open Source Projects**  
-💬 Ask me about **[Your Expertise Areas]**
+🔭 Working on **An Request/Budgetting module** 
+🌱 Deepening knowledge in **Data Science and Artificial Intelligence**  
+👯 Looking to collaborate on **The Steam Modding Community**  
 
 </div>
 
@@ -45,30 +43,39 @@ const developer = {
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+### Frontend & Web
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & Database
+### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Database
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Tools & Analytics
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
@@ -77,16 +84,16 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jochem-tb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jochem-tb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jochem-tb&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jochem-tb&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -94,7 +101,7 @@ const developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jochem-tb&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -103,8 +110,8 @@ const developer = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/USERNAME/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/USERNAME/project2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Jochem-tb&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/USERNAME/project1)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Jochem-tb&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/USERNAME/project2)
 
 </div>
 
@@ -118,37 +125,10 @@ const developer = {
 
 ---
 
-## 🎯 Achievements & Milestones
-
-<div align="center">
-
-```
-🥇 500+ Contributions in 2024
-🌟 50+ GitHub Stars across projects
-🤝 15+ Open Source contributions
-🏆 Winner of [Hackathon Name]
-📝 10+ Technical articles published
-🎤 Speaker at [Conference/Meetup]
-```
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-## 💡 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title 1](https://yourblog.com/post1)
-- [Your Blog Post Title 2](https://yourblog.com/post2)
-- [Your Blog Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -165,7 +145,7 @@ const developer = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Jochem-tb/Jochem-tb/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -184,3 +164,9 @@ const developer = {
 **Made with 💻 and ☕ by [Your Name]**
 
 </div>
+
+
+
+
+
+
