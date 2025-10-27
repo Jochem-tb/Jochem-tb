@@ -4,14 +4,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jochem-ter-braak/)
 
 </div>
 
 ---
-
+ 
 ## 🚀 About Me
 
 ```typescript
@@ -20,7 +18,7 @@ const developer = {
     role: "Full Stack Developer",
     location: "Netherlands 🌍",
     currentFocus: "Finishing up my internship at a All-in-One Automotive Platform",
-    learning: ["Kubernetes", "System Design", "Machine Learning"],
+    learning: ["Kubernetes", "LLM's", "Machine Learning"],
     interests: ["Cybersecurity", "Automation", "Data Science"],
 };
 ```
@@ -29,9 +27,9 @@ const developer = {
 
 ### 💼 Currently
 
-🔭 Working on **An Request/Budgetting module** 
-🌱 Deepening knowledge in **Data Science and Artificial Intelligence**  
-👯 Looking to collaborate on **The Steam Modding Community**  
+- 🔭 Working on **a Request/Budgeting module**  
+- 🌱 Deepening knowledge in **Data Science and Artificial Intelligence**  
+- 👯 Looking to collaborate on **the Steam Modding Community**
 
 </div>
 
@@ -94,8 +92,8 @@ const developer = {
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Jochem-tb&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Jochem-tb/BoardGameNightWebApp)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Jochem-tb&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Jochem-tb/spellen-doos)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Jochem-tb&repo=BoardGameNightWebApp&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Jochem-tb/BoardGameNightWebApp)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Jochem-tb&repo=spellen-doos&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Jochem-tb/spellen-doos)
 
 </div>
 
@@ -103,9 +101,9 @@ const developer = {
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| **[Project Name 1](https://github.com/yourusername/project1)** | A scalable microservices platform for... | `Python` `FastAPI` `Docker` `Kubernetes` | [🔗 Live](https://demo.com) |
-| **[Project Name 2](https://github.com/yourusername/project2)** | Real-time collaborative tool built with... | `React` `Node.js` `WebSocket` `Redis` | [🔗 Live](https://demo.com) |
-| **[Project Name 3](https://github.com/yourusername/project3)** | AI-powered solution that helps... | `Python` `TensorFlow` `FastAPI` | [🔗 Live](https://demo.com) |
+| **[BoardGameNightWebApp](https://github.com/Jochem-tb/BoardGameNightWebApp)** | TODO | `C#, ASP.NET, SQL` | Coming soon... |
+| **[Spellen-Doos](https://github.com/Jochem-tb/spellen-doos)** | TODO | `JavaScript, Angular, WebSocket, MongoDB` | Coming soon... |
+| **[Coming soon]()** | TODO | `TODO` | Coming soon... |
 
 ---
 
